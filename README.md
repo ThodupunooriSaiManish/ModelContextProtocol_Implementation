@@ -37,7 +37,7 @@ MCP/
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3
 - Model Context Protocol (MCP)
 - JSON
 - Standard Python Libraries
@@ -126,6 +126,3 @@ Through this project, I learned:
 ## Author
 
 **Thodupunoori Sai Manish**
-
-GitHub:
-https://github.com/ThodupunooriSaiManish
